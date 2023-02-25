@@ -1,6 +1,14 @@
-# AngularTicTacToe
+# Angular Tic-Tac-Toe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
+
+## Clone
+
+```bash
+git clone https://github.com/SultanBadri/angular-tic-tac-toe.git
+cd angular-tic-tac-toe
+npm install
+```
 
 ## Development server
 
